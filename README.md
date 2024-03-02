@@ -1,0 +1,1 @@
+This is a project I did as part of the 'IBM's Python Project for Data Science' course on coursera. The project requires 6 tasks to be completed which includes extracting and visualizing stock data from the web.
